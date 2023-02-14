@@ -2,4 +2,4 @@
 
 ## Editing the file
 
-Its a markdown file in this reposity.
+final.py is data visualization's final project for IBM course
